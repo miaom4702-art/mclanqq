@@ -1,5 +1,7 @@
 # MC 联机 QQ（mclanqq）
 
+### Minecraft Forge 1.20.1 · QQ 风格联机聊天模组
+
 ![icon](docs/icon.png)
 
 > 一个面向 **Minecraft Forge 1.20.1** 的“QQ 风格”联机聊天模组。
